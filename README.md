@@ -4,6 +4,16 @@ An interactive Formula 1 race strategy simulator developed collaboratively.
 
 The application explores tyre degradation, thermal behavior, lap-time estimation, and pit-stop strategy optimization through numerical methods, statistical modeling, and interactive visualizations.
 
+## Screenshots
+
+The screenshots show circuit progress at Monaco, lap-time and tyre-performance analysis, and a head-to-head comparison of race strategies. Select any screenshot to view it at full resolution.
+
+| **Circuit & Live Progress** | **Pace & Tyre Analysis** |
+| :---: | :---: |
+| [![Circuit layout, race progress and current strategy](docs/screenshots/circuit-progress.webp)](docs/screenshots/circuit-progress.webp) | [![Lap-time pace, tyre temperature and tyre-life analysis](docs/screenshots/tyre-performance.webp)](docs/screenshots/tyre-performance.webp) |
+| **Head-to-Head Comparison** | **Strategy Comparison Charts** |
+| [![Comparison of drivers, pit-stop strategies and live race performance](docs/screenshots/strategy-comparison.webp)](docs/screenshots/strategy-comparison.webp) | [![Comparative lap-time, cumulative time difference and tyre degradation charts](docs/screenshots/comparison-analysis.webp)](docs/screenshots/comparison-analysis.webp) |
+
 ## Features
 
 - Configure circuits, race length, track temperature, and pit-stop time loss.
