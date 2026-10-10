@@ -1,6 +1,6 @@
 # F1 Strategy Simulator
 
-An interactive Formula 1 race strategy simulator developed as a collaborative academic project.
+An interactive Formula 1 race strategy simulator developed collaboratively.
 
 The application explores tyre degradation, thermal behavior, lap-time estimation, and pit-stop strategy optimization through numerical methods, statistical modeling, and interactive visualizations.
 
@@ -14,7 +14,7 @@ The application explores tyre degradation, thermal behavior, lap-time estimation
 - Analyze cumulative race time and strategy differences.
 - Explore circuit layouts and animated race progress.
 - Control simulation playback and speed.
-- Access an educational panel explaining the numerical methods used.
+- Access an explanatory panel covering the numerical methods used.
 
 ## Tech Stack
 
@@ -48,7 +48,7 @@ Circuit geometry is obtained from position telemetry when possible, with stylize
 
 Tyre behavior and race performance are estimated using configurable parameters, numerical calculations, and statistical models.
 
-**Results are educational simulations, not official Formula 1 predictions or validated real-world race strategies.**
+**Results are simplified simulation estimates, not official Formula 1 predictions or validated real-world race strategies.**
 
 ## Getting Started
 
@@ -75,7 +75,7 @@ This step is optional and may require additional download time and internet acce
 
 ## Project Structure
 
-- `src/app.py` — Streamlit interface, controls, charts, and academic explanations.
+- `src/app.py` — Streamlit interface, controls, charts, and explanations of numerical methods.
 - `src/strategy.py` — Race-strategy simulation and optimization logic.
 - `src/metodos_numericos.py` — Numerical methods and mathematical utilities.
 - `src/modelo_ml.py` — Regression-based lap-time prediction model.
@@ -86,7 +86,7 @@ This step is optional and may require additional download time and internet acce
 
 ## Project Scope
 
-This simulator was developed as a team academic project focused on numerical modeling, simulation, and race strategy analysis.
+The simulator focuses on numerical modeling, simulation, and race strategy analysis.
 
 This repository is a personal fork of the [original collaborative project](https://github.com/SantiMussi/SimuladorF1).
 
